@@ -10,6 +10,14 @@ s
 
 Testing da naye
 testing is not over
+<<<<<<< HEAD
 asdads
 ad
 not yet
+=======
+checking why it will not commit from local to remote
+>>>>>>> aea0288e2293b8c50f294adc8e4ff70d4ede16e8
+asdads
+
+
+testing one last time for fetch comment
