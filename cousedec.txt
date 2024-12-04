@@ -12,14 +12,3 @@ testing is not over
 asdads
 ad
 not yet
-=======
-checking why it will not commit from local to remote
-<<<<<<< HEAD
->>>>>>> aea0288e2293b8c50f294adc8e4ff70d4ede16e8
-asdads
-
-
-testing one last time for fetch comment
-=======
-sos so 
->>>>>>> dfd8b542da6201fb3a89e01b91d1defe802f54e2
