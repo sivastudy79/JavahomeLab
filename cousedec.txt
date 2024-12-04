@@ -10,3 +10,4 @@ s
 
 Testing da naye
 testing is not over
+checking why it will not commit from local to remote
